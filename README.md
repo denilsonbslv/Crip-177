@@ -20,6 +20,11 @@ git clone https://github.com/denilsonbslv/Crip-177.git
 
 cd Crip-177
 
+4. Build o projeto
+dotnet build
+
+4. Execute o projeto
+dotnet run
 
 ## Funções disponíveis
 
